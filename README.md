@@ -17,5 +17,6 @@ research directions, with the ultimate aim to support traditional legal methodol
 facilitate citizens’ access to rights, support public administrations, and, more in general, promote
 democracy and the rule of law in the European Union. 
 </p>
-<p>Data and source code are available at [https://doi.org/10.17632/mkx5sb3mnw](https://doi.org/10.17632/mkx5sb3mnw)
-</p>
+
+Data and source code are available at [https://doi.org/10.17632/mkx5sb3mnw](https://doi.org/10.17632/mkx5sb3mnw)
+
